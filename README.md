@@ -34,7 +34,7 @@ _**Oh wow!**_ **Well, me too!**
 - [**Travel Genie**](https://github.com/JPEscobari/Travel-Genie) — **Full-Stack Developer** | *MERN Stack, Google Places, OpenAI, Unsplash*  
   An intelligent itinerary generator that orchestrates location data, AI-driven scheduling, and contextual images tailored to dates, party size, and family travel constraints. Includes a social feature where users can explore what other members of the community have generated.
 
-- [**Deal Hero**](https://github.com/JPEscobari/Deal-Hero) — **Full-Stack Engineer** | *Python, Django, Web Scraping*  
+- [**Deal Hero**](https://github.com/arzansa/deal-hero) — **Full-Stack Engineer** | *Python, Django, Web Scraping*  
   An automated retail price-tracking engine that scrapes product data across e-commerce platforms to monitor price fluctuations and calculate which major retailer offers the most savings for a particular product.
 
 - [**Juke.ly**](https://github.com/JPEscobari/Jukely) — **Full-Stack Developer** | *JavaScript, YouTube API*  
