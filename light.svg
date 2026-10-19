@@ -154,7 +154,7 @@
       <!-- Command Prompt Box -->
       <rect x="44" y="508" width="408" height="54" rx="10" fill="#090D16" fill-opacity="0.8" stroke="#1E293B" stroke-width="1" />
       <text x="60" y="531" class="mono cmd-txt">~/JPEscobari $ ./build --stack=mern-but-also-python-ai</text>
-      <text x="60" y="550" class="mono" font-size="11" fill="#64748B">> Status: Ready to collaborate & ship high-impact apps</text>
+      <text x="60" y="550" class="mono" font-size="11" fill="#64748B">> Status: Ready to collaborate &amp; ship high-impact apps</text>
       <rect x="392" y="520" width="7" height="14" fill="#10B981">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
       </rect>
@@ -280,7 +280,7 @@
         <text x="135" y="21" class="mono proj-desc">MERN + OpenAI + Google Places intelligent itinerary generator.</text>
 
         <text x="0" y="42" class="mono proj-name">▸ Deal Hero</text>
-        <text x="135" y="42" class="mono proj-desc">Python & Django automated e-commerce deal-tracking engine.</text>
+        <text x="135" y="42" class="mono proj-desc">Python &amp; Django automated e-commerce deal-tracking engine.</text>
 
         <text x="0" y="63" class="mono proj-name">▸ Juke.ly</text>
         <text x="135" y="63" class="mono proj-desc">Shared party YouTube jukebox</text>
