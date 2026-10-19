@@ -1,18 +1,8 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-    <img src="./dark.svg" alt="JP Escobari — Full-Stack & AI Engineer Terminal Profile Banner" width="100%" />
-  </picture>
-</div>
-
-<br />
-
-# Oh, Hi! ...come on in!
-
 <p align="center">
   <img src="./banner.png" alt="JP's Multi-Monitor Full-Stack Workstation Setup" width="100%" style="border-radius: 12px;" />
 </p>
+
+# Oh, Hi! ...come on in!
 
 ### I'm JP 👋
 I wasn't expecting anyone. Thanks for stopping by!
@@ -21,9 +11,20 @@ Are you interested in developing full-stack apps that integrate those crazy lang
 
 _**Oh wow!**_ **Well, me too!**
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img src="./dark.svg" alt="JP Escobari — Full-Stack & AI Engineer Terminal Profile Banner" width="100%" />
+  </picture>
+</div>
+<br />
 
 ## 🛠️ Let Me Tell You About What I'm Currently Building (if I may):
 > *Most of my recent work has been focused on connecting React with backend LLMs and third-party APIs to create some pretty cool user experiences.*
+
+
+
 
 ### 🚀 My Favorite Personal & Open-Source Projects:
 

@@ -126,7 +126,7 @@
 
       <!-- Panel Subheader -->
       <text x="48" y="102" class="mono sec-hdr">JP.MAP // WORKSTATION_SETUP</text>
-      <text x="448" y="102" class="mono" font-size="10.5" fill="#64748B" text-anchor="end">[9:31 PM]</text>
+      <text x="448" y="102" class="mono" font-size="10.5" fill="#64748B" text-anchor="end">[3:11 AM]</text>
       <line x1="44" y1="114" x2="452" y2="114" stroke="#1E293B" stroke-width="1" />
 
       <!-- My Battlestation Photo) -->
@@ -136,8 +136,8 @@
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2; 0,0" dur="6s" repeatCount="indefinite" />
           <g>
-  <image align='center' href="https://i.imgur.com/NV3UXbY.jpeg" x="54" y="130" width="408" height="280" preserveAspectRatio="xMidYMid slice" />
-</g>
+            <image href="./battlestation.jpg" x="54" y="130" width="408" height="280" preserveAspectRatio="xMidYMid slice" />
+          </g>
         </g>
 
         <!-- Subtle Animated Scanline -->
