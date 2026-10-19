@@ -45,10 +45,10 @@ _**Oh wow!**_ **Well, me too!**
 
 
 
-## Are You Looking for a Programming Hand?
+## 🤝 Are You Looking for a Programming Hand?
 I do really well (*I thrive!*) in async-friendly, community-driven environments. If you’re building civic tech, open-source tools, or any type of high-impact web apps using the MERN stack or Python, hit me up! I'd love to hear your ideas!
 
-## Learning Can't Stop, Won't Stop 🎓 !
+## 🎓 Learning Can't Stop, Won't Stop  !
 At the same time, I'm pursuing my **M.S. in Computer Science (Artificial Intelligence concentration)** at NSU Florida, studying for my **AWS Certified Solutions Architect** certification, and participating in as many hackathons as possible.
 
 ## ⚡ Beyond the Code:
