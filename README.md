@@ -37,7 +37,7 @@ _**Oh wow!**_ **Well, me too!**
 - [**Deal Hero**](https://github.com/arzansa/deal-hero) — **Full-Stack Engineer** | *Python, Django, Web Scraping*  
   An automated retail price-tracking engine that scrapes product data across e-commerce platforms to monitor price fluctuations and calculate which major retailer offers the most savings for a particular product.
 
-- [**Juke.ly**](https://github.com/JPEscobari/Jukely) — **Full-Stack Developer** | *JavaScript, YouTube API*  
+- [**Juke.ly**](https://github.com/JPEscobari/Juke-ly) — **Full-Stack Developer** | *JavaScript, YouTube API*  
   Juke.ly is a single-page Jukebox application designed for parties interested in quickly creating a shared YouTube video queue. The queue and player live on the same page resembling a real Jukebox, so everyone knows if their request is coming up next.
 
 - [**Texas Hold 'Em Video Poker**](https://github.com/JPEscobari/Video-Poker) — **Frontend / Game Logic Engineer** | *JavaScript, HTML5, CSS3*  
