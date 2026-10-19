@@ -45,7 +45,7 @@ _**Oh wow!**_ **Well, me too!**
 
 
 
-## Do you need a Programming Hand?
+## Are You Looking for a Programming Hand?
 I do really well (*I thrive!*) in async-friendly, community-driven environments. If you’re building civic tech, open-source tools, or any type of high-impact web apps using the MERN stack or Python, hit me up! I'd love to hear your ideas!
 
 ## Learning Can't Stop, Won't Stop 🎓 !
