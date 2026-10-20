@@ -28,7 +28,7 @@ _**Oh wow!**_ **Well, me too!**
 
 ### 🚀 My Favorite Personal & Open-Source Projects:
 
-- [**KnowNative**](https://github.com/JPEscobari/KnowNative) — **Reading Comprehension Web App** | *React, Node.js, Express, MongoDB, OpenAI API*  
+- [**KnowNative**](https://github.com/AbigailDawson/knownative) — **Reading Comprehension Web App** | *React, Node.js, Express, MongoDB, OpenAI API*  
   I'm the volunteer Tech-Lead for this open-source project, developing a reading comprehension app for language learners. One of my latest tasks was expanding the core engine from Traditional Chinese into a language-agnostic platform powered by AI text tokenization and context-aware translations.
 
 - [**Travel Genie**](https://github.com/JPEscobari/Travel-Genie) — **Intelligent Travel Itinerary Generator** | *MERN Stack, Google Places, OpenAI, Unsplash*  
